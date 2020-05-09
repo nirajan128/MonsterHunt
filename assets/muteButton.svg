@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="64" viewBox="0 0 128 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ed1c27;
+      }
+
+      .cls-3 {
+        fill: #ed1d28;
+      }
+
+      .cls-4 {
+        fill: #ed1c2a;
+      }
+
+      .cls-5 {
+        fill: #ecf5ea;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        fill: #090d10;
+      }
+
+      .cls-8 {
+        fill: #050606;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="58.93" y="11.51" width="63.45" height="42.49"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <circle class="cls-2" cx="34" cy="32" r="32"/>
+    <circle class="cls-3" cx="93.84" cy="31.95" r="32"/>
+    <rect class="cls-4" x="34" width="60" height="64"/>
+    <circle class="cls-5" cx="92" cy="32" r="30"/>
+  </g>
+  <g id="speaker">
+    <g class="cls-6">
+      <g id="Speaker-2" data-name="Speaker">
+        <rect id="Rectangle_976" data-name="Rectangle 976" class="cls-1" x="58.93" y="11.51" width="63.45" height="42.49"/>
+        <path id="Path_260" data-name="Path 260" class="cls-7" d="M104.11,12.77V53.13a1.22,1.22,0,0,1-1.27.85,2.46,2.46,0,0,1-1.27-.42l-17.14-11H72.38a1.53,1.53,0,0,1-1.27-.43c-.64-.42,0-.42,0-.84v-17c0-.43,0-.43.63-.85A2.79,2.79,0,0,1,73,23H85.07L102.2,11.51h1.27C104.11,11.94,104.11,11.94,104.11,12.77Z"/>
+      </g>
+    </g>
+    <rect class="cls-8" x="92.32" y="5.62" width="3.36" height="55.76" transform="translate(64.22 -61.74) rotate(53.02)"/>
+  </g>
+</svg>

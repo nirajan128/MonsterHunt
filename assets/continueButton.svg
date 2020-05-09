@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="476" height="223" viewBox="0 0 476 223">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4d358d;
+      }
+
+      .cls-2 {
+        font-size: 60px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.02em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="41" y="57" width="394" height="113" rx="12"/>
+  <text class="cls-2" transform="translate(100.85 131.6)"><tspan class="cls-3">C</tspan><tspan x="33.54" y="0">ONTINUE</tspan></text>
+</svg>

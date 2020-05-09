@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="498" height="344" viewBox="0 0 498 344">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5063ad;
+      }
+
+      .cls-2 {
+        font-size: 112px;
+        fill: #231f20;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" x="79.5" y="107.5" width="332" height="138" rx="11.5"/>
+    <path d="M400,108a11,11,0,0,1,11,11V234a11,11,0,0,1-11,11H91a11,11,0,0,1-11-11V119a11,11,0,0,1,11-11H400m0-1H91a12,12,0,0,0-12,12V234a12,12,0,0,0,12,12H400a12,12,0,0,0,12-12V119a12,12,0,0,0-12-12Z"/>
+  </g>
+  <text class="cls-2" transform="translate(113.35 215.29)">home</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="64" viewBox="0 0 256 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ed1c27;
+      }
+
+      .cls-3 {
+        fill: #ed1d28;
+      }
+
+      .cls-4 {
+        fill: #ed1c2a;
+      }
+
+      .cls-5 {
+        fill: #ecf5ea;
+      }
+
+      .cls-6 {
+        fill: #6dbe45;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-8 {
+        fill: #090d10;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10 {
+        fill: #050606;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="186.93" y="11.51" width="63.45" height="42.49"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" x="2" y="10.51" width="63.45" height="42.49"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <circle class="cls-2" cx="162" cy="32" r="32"/>
+    <circle class="cls-3" cx="221.84" cy="31.95" r="32"/>
+    <rect class="cls-4" x="162" width="60" height="64"/>
+    <circle class="cls-5" cx="220" cy="32" r="30"/>
+    <circle class="cls-6" cx="35.07" cy="32" r="32"/>
+    <circle class="cls-6" cx="94.91" cy="31.95" r="32"/>
+    <rect class="cls-6" x="35.07" width="60" height="64"/>
+    <circle class="cls-5" cx="35.07" cy="32" r="30"/>
+  </g>
+  <g id="speaker">
+    <g class="cls-7">
+      <g id="Speaker-2" data-name="Speaker">
+        <rect id="Rectangle_976" data-name="Rectangle 976" class="cls-1" x="186.93" y="11.51" width="63.45" height="42.49"/>
+        <path id="Path_260" data-name="Path 260" class="cls-8" d="M232.11,12.77V53.13a1.22,1.22,0,0,1-1.27.85,2.46,2.46,0,0,1-1.27-.42l-17.14-11H200.38a1.53,1.53,0,0,1-1.27-.43c-.64-.42,0-.42,0-.84v-17c0-.43,0-.43.63-.85A2.79,2.79,0,0,1,201,23h12.06L230.2,11.51h1.27C232.11,11.94,232.11,11.94,232.11,12.77Z"/>
+      </g>
+    </g>
+    <g class="cls-9">
+      <g id="Speaker-3" data-name="Speaker">
+        <rect id="Rectangle_976-2" data-name="Rectangle 976" class="cls-1" x="2" y="10.51" width="63.45" height="42.49"/>
+        <path id="Path_260-2" data-name="Path 260" class="cls-8" d="M47.17,11.77V52.13a1.21,1.21,0,0,1-1.26.85,2.47,2.47,0,0,1-1.28-.42l-17.13-11H15.44a1.55,1.55,0,0,1-1.27-.43c-.63-.42,0-.42,0-.84v-17c0-.43,0-.43.64-.85A2.79,2.79,0,0,1,16.07,22H28.13L45.27,10.51h1.27C47.17,10.94,47.17,10.94,47.17,11.77Z"/>
+      </g>
+    </g>
+    <rect class="cls-10" x="220.32" y="5.62" width="3.36" height="55.76" transform="translate(115.22 -164) rotate(53.02)"/>
+  </g>
+</svg>

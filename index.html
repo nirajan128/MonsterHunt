@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Monster Hunt</title>
+</head>
+
+<body>
+    <div id="screen">
+        <div id="game">
+            <div id="game_background"></div>
+
+            <div id="game_elements">
+                
+            
+             
+
+                <div id="monster1">
+                    <div class="sprite"></div>
+                </div>
+                <div id="monster2">
+                    <div class="sprite"></div>
+                </div>
+                <div id="monster3">
+                    <div class="sprite"></div>
+                </div>
+                <div id="monster4">
+                    <div class="sprite"></div>
+                </div>
+                <div id="monster5">
+                    <div class="sprite"></div>
+                </div>
+                <div id="monster6">
+                    <div class="sprite"></div>
+                </div>
+                <div id="bomb1">
+                    <div class="sprite"></div>
+                </div>
+
+
+
+            </div>
+
+            <div id="game_ui">
+
+
+                <audio id="monsterFX" src="sounds/monster%20sound.mp3"></audio>
+
+                <audio id="scoreFX" src="sounds/Scored.mp3"></audio>
+                <audio id="explosionFX" src="sounds/Explosion+3.mp3"></audio>
+                <audio id="shakingFX" src="sounds/shaking.mp3"></audio>
+                <audio id="bgmusic" src="sounds/Carosone_-_Peace_and_Agitation_gameBackground.mp3"></audio>
+                <audio id="gameoverFX" src="sounds/GameOver_mixdown.mp3"></audio>
+                <audio id="gamecompleteFX" src="sounds/gameComplete.mp3"></audio>
+                <div id="score_board">
+                    <span id="score_image">
+                        <span id="score_count">0</span>
+                    </span>
+                </div>
+                <div id="time_board">
+
+                    <div class="sprite1"></div>
+                    <div class="sprite2"></div>
+
+
+                </div>
+                <div id="life_board">
+                    <div id="heart">
+                        <div id="heart_1" class="active_heart"></div>
+
+                        <div id="heart_2" class="active_heart"></div>
+
+                        <div id="heart_3" class="active_heart"></div>
+                    </div>
+                </div>
+                
+                   
+                
+                   <div id="settings_icon"></div>
+
+            </div>
+
+        </div>
+
+        <div id="start_screen">
+       <div id="start_background"></div>
+        <div class="start_button">
+        </div>
+           
+       
+        </div>
+        
+        <div id="gameover">
+         <div id="gameover_screen"></div>
+            <div class="tryagain_button"></div>
+            <div class="show_score">SCORE:</div>
+            <div id="display_score"></div>
+            <div class="home_button"></div>
+           
+        </div>
+        
+        <div id="levelcomplete" >
+        <div id="gamecomplete_screen"></div>
+         <div class="play_again"></div> 
+            <div class="show_score">SCORE:</div>
+            <div id="display_score_gamecomplete"></div>
+                    <div class="home_button2"></div>
+
+        </div>
+        
+        <div id="settingsScreen">
+             <div id="texts">
+                 <div class="SFX">SFX</div>
+                 <div class="MFX">MusicFX</div>
+            </div>
+          
+            <div id="sound_button" class="unmute_button">   
+            </div>
+                      
+           
+            <div id="musicFX" class="unmute_button">
+            </div>
+        
+            
+            <div id="close_button"></div>
+            
+            
+            <div id="volume_Slider">
+                <input type="range" min="1" max="100" value="80" class="myslider" id="sliderInput">
+            <p>volume:<span id="volume"></span></p>
+            </div>
+            </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body></html>

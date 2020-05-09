@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="135" viewBox="0 0 135 135">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        font-size: 50.51px;
+        fill: #0c0b0c;
+        font-family: BradleyHandITC, Bradley Hand ITC;
+      }
+
+      .cls-4 {
+        fill: #d497c3;
+      }
+
+      .cls-5 {
+        fill: #0b0909;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #07070d;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        fill: #f2e1e1;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="254.87" y="-1253" width="1912.62" height="1073.43"/>
+    </clipPath>
+  </defs>
+  <g id="game">
+    <g id="Layer_1" data-name="Layer 1">
+      <g class="cls-2">
+        <text class="cls-3" transform="translate(-293.74 91.61) scale(1.01 1)">SscoreC<tspan class="cls-4" x="167.47" y="0">ORES:</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="Indicators">
+    <g>
+      <rect class="cls-5" x="23.5" y="23.5" width="88" height="88" rx="12"/>
+      <rect class="cls-6" x="45.5" y="36.5" width="15" height="62" rx="7.5"/>
+      <rect class="cls-6" x="76.5" y="36.5" width="15" height="62" rx="7.5"/>
+    </g>
+  </g>
+</svg>

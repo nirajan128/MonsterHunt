@@ -1,0 +1,631 @@
+body {
+    margin: 0;
+
+}
+
+#screen {
+    position: relative;
+    height: 56.25vw;
+    width: 99vw;
+}
+
+#game {
+    position: absolute;
+    height: 46.25vw;
+    width: 99vw;
+    overflow: hidden;
+}
+
+#game_background {
+    position: absolute;
+    width: 99vw;
+    height: 46.25vw;
+    background-image: url(../assets/background.jpg);
+    background-size: cover;
+}
+#start_screen{
+     position: absolute;
+    
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+#start_background {
+    position: absolute;
+    width: 100vw;
+    height: 56.25vw;
+    background-image: url(../assets/title_screen.svg);
+    background-size: 100%;
+}
+.start_button {
+    position: absolute;
+    top:30vw;
+    left: 46vw;
+    height: 6vw;
+    width: 10vw;
+    background-image: url(../assets/startButton.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    z-index: 5;
+     
+}
+
+
+#game_ui {
+    position: absolute;
+    width: 99vw;
+    height: 10vw;
+    left: 0;
+    
+}
+/*gameUI_placing*/
+#score_board {
+    position: absolute;
+    left: 1vw;
+    top: -vw;
+    width: 1vw;
+    display: flex;
+    min-width: 6vw;
+    
+}
+
+#score_image {
+    background-image: url(../assets/score.svg);
+    background-size: 100%;
+    width: 6vw;
+    height: 5vw; 
+}
+
+#score_count {
+    position: absolute;
+    font-size: 5vw;
+    color: white;
+    right: -6vw;
+    width: 6vw;
+    height: 5vw; 
+    top: -1vw
+        
+
+}
+
+
+
+#time_board{
+    position: relative;
+    top: -.5vw;
+    left: 28vw;
+     width: 50vw;
+    height: 15vw;
+    overflow: hidden;
+}
+#time_board .sprite1{
+    position: absolute;
+    width: 50vw;
+    height: 5vw;
+    background-image:url(../assets/Timebackground.svg);
+    background-size: 100%
+}
+
+#time_board .sprite2{
+    position: absolute;
+    left: -1vw;
+    width: 50vw;
+    height: 5vw;
+    background-image: url(../assets/Timeforeground.svg);
+    background-size: 100%;
+    overflow: hidden;
+}
+
+#time_left {
+    position: absolute;
+    font-size: 3vw;
+    color: white;
+    left: 20vw;
+    top: 4.5vw
+}
+#life_board{
+    height: 0vw;
+    width: 20vw;
+    position: absolute;
+    justify-content: flex-end;
+    top: -.5vw;
+    left: 80vw;
+}
+
+#heart{
+    display: flex;
+}
+.active_heart {
+    height: 5vw;
+    width: 5vw;
+    background-image: url(../assets/lifeforeground.svg);
+    background-size: 100%;
+}
+
+
+
+
+#game_elements {
+    position: absolute;
+    width: 99vw;
+    height: 46.25vw;
+    overflow: hidden;
+}
+
+       /*Element palacing*/
+
+#monster1  {
+    position: absolute;
+
+    top: 34vw;
+    left: 10vw;
+
+}
+#monster1 .sprite {
+    width: 6vw;
+    height: 6vw;
+    background-image: url(../assets/Monster_1.svg);
+    background-size: 100%;
+}
+
+#monster2 {
+    position: absolute;
+    top: 38vw;
+    left: 18vw;
+}
+#monster2 .sprite{
+    width: 8vw;
+    height: 8vw;
+    background-image: url(../assets/Monster_1.svg);
+    background-size: 100%;
+}
+
+#monster3 {
+    position: absolute;
+
+    top: 36vw;
+    left: 31vw;
+}
+#monster3 .sprite {
+     width: 8vw;
+    height: 8vw;
+    background-image: url(../assets/Monster_1.svg);
+    background-size: 100%;
+}
+
+#monster4 {
+    position: absolute;
+    top: 37vw;
+    left: 48vw;
+}
+#monster4 .sprite {
+    width: 7vw;
+    height: 7vw;
+    background-image: url(../assets/Monste_2.svg);
+    background-size: 100%;
+}
+
+#monster5 {
+     position: absolute;
+    top: 36.5vw;
+    left: 75vw;
+}
+#monster5 .sprite {
+    width: 8vw;
+    height: 8vw;
+    background-image: url(../assets/Monste_2.svg);
+    background-size: 100%;
+}
+
+#monster6 {
+    position: absolute;
+    top: 38vw;
+    left: 11vw;
+    
+}
+#monster6 .sprite {
+    width: 7vw;
+    height: 7vw;
+    background-image: url(../assets/Monste_2.svg);
+    background-size: 100%;
+}
+
+#bomb1 {
+    position: absolute;
+    top:38vw;
+    left: 91vw;
+}
+#bomb1 .sprite{
+    width: 6.5vw;
+    height: 6.5vw;
+    background-image: url(../assets/BOMB.svg);
+    background-size: 100%;
+}
+
+
+
+#gameover_screen {
+    position: absolute;
+    background-image: url(../assets/gameOver_screen.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+     width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.tryagain_button {
+    position: absolute;
+    background-image: url(../assets/restartButton.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+     height: 11vw;
+    width: 14vw;
+    top: 35vw;
+    left: 44vw;
+}
+.home_button {
+    position: absolute;
+    background-image: url(../assets/homeButton.svg);
+    background-size: 100%;
+    height: 11vw;
+    width: 14vw;
+    top: 33vw;
+    left: 59vw;
+}
+
+.home_button2 {
+    position: absolute;
+    background-image: url(../assets/homeButton.svg);
+    background-size: 100%;
+    height: 11vw;
+    width: 14vw;
+    top: 37vw;
+    left: 59vw;
+}
+
+#display_score{
+    position: absolute;
+    display: flex;
+    width: 10vw;
+    height: 5vw;
+    top: 35vw;
+    left:23vw;
+    font-size: 5vw;
+}
+.show_score{
+    position: absolute;
+    width: 10vw;
+    height: 5vw;
+    top: 35vw;
+    left:5vw;
+    font-size: 5vw;
+}
+#display_score_gamecomplete{
+    position: absolute;
+    display: flex;
+    width: 10vw;
+    height: 5vw;
+    top: 35vw;
+    left:23vw;
+    font-size: 5vw;
+}
+
+
+
+#gamecomplete_screen {
+    position: absolute;
+    background-image: url(../assets/gameComplete_screen.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    
+}
+
+.play_again {
+    position: absolute;
+    background-image: url(../assets/playAgain.svg);
+     background-size: 100%;
+    background-repeat: no-repeat;
+     height: 11vw;
+    width: 15vw;
+    top: 39vw;
+    left: 44vw;
+
+}
+
+
+
+#settings_icon{
+    position: absolute;
+    height: 8vw;
+    width: 8vw;
+    top: 6vw;
+    left: 85vw;
+    background-image: url(../assets/settingsicon.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+#settingsScreen {
+    position: absolute;
+    height: 46vw;
+    width: 80vw;
+    left: 20vw;
+    top:6vw;
+    background-image: url(../assets/settingscreen.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    visibility: hidden;
+    
+}
+#settingScreen{
+    position: absolute;
+    top: 30vw;
+}
+.SFX{
+    position: absolute;
+    
+    font-size: 4vw;
+}
+
+.MFX{
+    position: absolute;
+    left: 16vw;
+        font-size: 4vw;
+}
+#texts {
+    position: absolute;
+    width: 30vw;
+    height: 5vw;
+    top: 11vw;
+    left: 25vw;
+    display: flex;
+}
+#sound_button{
+    position: absolute;
+    width: 15vw;
+    height: 6vw;
+ left: 21.5vw;
+    top:17vw;
+}
+#musicFX{
+    position: absolute;
+    top: 17vw;
+    left:42vw;
+     width: 15vw;
+    height: 6vw;
+    cursor: pointer
+}
+
+
+
+
+.unmute_button{
+    position: absolute;
+    background-image:url(../assets/muteButton_spritesheet.svg);
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+#close_button{
+  position: absolute;
+    width: 10vw;
+    height: 9vw;
+ left: 52vw;
+    top: 4vw;
+    background-image: url(../assets/closebutton.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+
+
+#volume_slider {
+    position: absolute;
+    top:  40vw;
+    left: 20vw;
+    width: 30vw;
+}
+.myslider{
+    position: absolute;
+     top:30vw;
+    left:27vw;
+    width: 30vw;
+    height:2vw;
+}
+p {
+    position: absolute;
+    display: inline;
+    top: 28vw;
+    left:35vw;
+    font-size: 4vw;
+}
+
+/*animations*/
+
+.passing_left {
+    animation-name: passing_left_kf;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@keyframes passing_left_kf {
+    0% {
+        left: -6vw;
+    }
+    100% {
+        left: 100vw;
+    }
+}
+
+
+
+.disappear {
+    animation-name: disappear_kf;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-timing-function: cubic-bezier(.67,.47,.33,1.46);
+    animation-fill-mode: forwards;
+}
+@keyframes disappear_kf {
+    0% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(.8);
+    }
+    60% {
+       opacity: 1; 
+    }
+    100%{
+        opacity: 0;
+    }
+}
+
+.explode {
+    animation-name: explode_kf;
+    animation-duration: 2.5s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+}
+@keyframes explode_kf {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(4);
+    }
+    100% {
+        opacity: 1%;
+        transform: rotate(45deg);
+    }
+}
+
+.shake {
+    animation-name: shake_kf;
+    animation-duration: .2s;
+    animation-iteration-count: 3;
+    animation-timing-function: linear;
+}
+@keyframes shake_kf {
+    0% {
+        transform: rotate(0) scale(1);
+    }
+    10% {
+        transform: rotate(-5deg) scale(1.5);
+    }
+    50% {
+        transform: rotate(10deg) scale(1.5);
+    }
+    100% {
+        transform: rotate(-10deg) scale(1.5);
+    }
+}
+
+.timeend {
+    animation-name: timeend_kf;
+    animation-duration: 60s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+}
+@keyframes timeend_kf {
+    0% {
+        transform: translate(0vw);
+        overflow: hidden;
+    }
+    100%{
+        transform: translate(-44vw);
+        overflow: hidden;
+    }
+    
+}
+
+.pulse {
+    animation-name: pulse_kf;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+}
+@keyframes pulse_kf {
+     0%,
+    100% {
+        transform: scale(1, 1);
+    }
+
+    50% {
+        transform: scale(1.1, 1.1);
+    }
+}
+
+.fade_out {
+    animation-name: fade_out_kf;
+    animation-duration: 3s;
+   animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+}
+
+@keyframes fade_out_kf {
+    0% {
+        opacity: 100%;
+    }
+    100% {
+        opacity: 0%;
+    }
+}
+.hide {
+    display: none;
+    
+}
+
+.soundstop{
+    background-position: 100% 0%;
+}
+.soundunstop{
+    background-position: 0% 0%;
+}
+
+/*animation modifiers*/
+
+.pause{
+    animation-play-state: paused;
+}
+
+.position2 {
+   top: 30vw;
+    animation-duration: 2.5s;
+}
+.speed1{
+    animation-duration: 10s; 
+}
+.speed2{
+    animation-duration: 6s; 
+}
+.speed3{
+    animation-duration: 3s; 
+}
+.speed4{
+    animation-duration: 5s; 
+}
+.speed5{
+    animation-duration: 8s; 
+}
+.speed6{
+    animation-duration: 12s;
+}
+.speed7{
+    animation-duration: 13s;
+}
+.speed8{
+    animation-duration: 7s;
+}
+

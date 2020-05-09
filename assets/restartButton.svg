@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="282" viewBox="0 0 540 282">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5063ad;
+      }
+
+      .cls-2 {
+        font-size: 106px;
+        fill: #231f20;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g>
+      <rect class="cls-1" x="103.5" y="71.5" width="332" height="138" rx="11.5"/>
+      <path d="M424,72a11,11,0,0,1,11,11V198a11,11,0,0,1-11,11H115a11,11,0,0,1-11-11V83a11,11,0,0,1,11-11H424m0-1H115a12,12,0,0,0-12,12V198a12,12,0,0,0,12,12H424a12,12,0,0,0,12-12V83a12,12,0,0,0-12-12Z"/>
+    </g>
+    <text class="cls-2" transform="translate(138.15 172.54)"><tspan class="cls-3">r</tspan><tspan x="33.6" y="0">esta</tspan><tspan class="cls-4" x="214.86" y="0">r</tspan><tspan x="252.06" y="0">t</tspan></text>
+  </g>
+</svg>

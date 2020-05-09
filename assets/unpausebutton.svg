@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="135" viewBox="0 0 135 135">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0b0909;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #07070d;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #f2e1e1;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Indicators">
+      <g>
+        <rect class="cls-1" x="23.5" y="23.5" width="88" height="88" rx="12"/>
+        <polygon class="cls-2" points="92.2 67.5 46.2 32.37 46.2 102.63 92.2 67.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

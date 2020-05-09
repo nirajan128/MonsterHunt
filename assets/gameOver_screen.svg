@@ -1,0 +1,195 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fcfcfc;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #964d22;
+      }
+
+      .cls-16, .cls-17, .cls-4, .cls-5, .cls-6 {
+        stroke: #070706;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        fill: #954d22;
+      }
+
+      .cls-8 {
+        fill: #110d13;
+      }
+
+      .cls-9 {
+        fill: #050506;
+      }
+
+      .cls-10 {
+        fill: #ec1c24;
+      }
+
+      .cls-11 {
+        fill: #564537;
+      }
+
+      .cls-12 {
+        fill: #e2bfc1;
+      }
+
+      .cls-13 {
+        fill: #d1aeb0;
+      }
+
+      .cls-14 {
+        fill: #ce9b9f;
+      }
+
+      .cls-15 {
+        font-size: 190px;
+        font-family: Chiller-Regular, Chiller;
+      }
+
+      .cls-16 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-17 {
+        fill: url(#linear-gradient-5);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="953.88" y1="47.75" x2="961.22" y2="1054.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1b58"/>
+      <stop offset="0.71" stop-color="#5c54a4"/>
+      <stop offset="1" stop-color="#ffacc1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="709.14" y1="865.66" x2="726.43" y2="865.66" gradientTransform="translate(1881.76 173.24) rotate(105.47)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="691.34" y1="866.01" x2="709.45" y2="866.01" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="720.96" y1="863.04" x2="738.25" y2="863.04" gradientTransform="matrix(0.27, 0.96, 0.96, -0.27, 50.83, 173.24)" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="703.16" y1="863.39" x2="721.27" y2="863.39" gradientTransform="matrix(0.27, 0.96, 0.96, -0.27, 50.83, 173.24)" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="background">
+    <rect class="cls-1" x="-5.04" width="1925.04" height="1083.04"/>
+    <g>
+      <circle class="cls-2" cx="1407.83" cy="404.25" r="3.24"/>
+      <circle class="cls-2" cx="1481.61" cy="436.98" r="3.8"/>
+      <circle class="cls-2" cx="1613.74" cy="272.73" r="1.86"/>
+      <circle class="cls-2" cx="1735.38" cy="204.77" r="1.96"/>
+      <circle class="cls-2" cx="1631.82" cy="188.51" r="2.35"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="428.87" cy="343.15" r="3.86"/>
+      <circle class="cls-2" cx="397.58" cy="397.77" r="2.81"/>
+      <circle class="cls-2" cx="506.84" cy="221.02" r="2.03"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="688.14" cy="253.29" r="4.34"/>
+      <circle class="cls-2" cx="885.98" cy="329.79" r="2.54"/>
+      <circle class="cls-2" cx="873.62" cy="224.89" r="2.8"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="346.8" cy="395.94" r="2.48"/>
+      <circle class="cls-2" cx="361.06" cy="314.49" r="4.43"/>
+      <circle class="cls-2" cx="529.73" cy="414.25" r="4.44"/>
+      <circle class="cls-2" cx="413.86" cy="506.79" r="1.84"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="796.7" cy="448.02" r="3.63"/>
+      <circle class="cls-2" cx="1006.14" cy="485.2" r="2.56"/>
+      <circle class="cls-2" cx="1142.1" cy="512.04" r="4.32"/>
+      <circle class="cls-2" cx="1297.78" cy="368.25" r="4.4"/>
+      <circle class="cls-2" cx="1057.12" cy="324.71" r="1.73"/>
+      <circle class="cls-2" cx="975.51" cy="214.73" r="3.69"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="805.85" cy="627.06" r="2.78"/>
+      <circle class="cls-2" cx="883.11" cy="662.46" r="2.74"/>
+      <circle class="cls-2" cx="968.35" cy="485.03" r="2.16"/>
+      <circle class="cls-2" cx="837.45" cy="711.29" r="1.64"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="1064.94" cy="620.3" r="3.04"/>
+      <circle class="cls-2" cx="1123.73" cy="774.95" r="3.39"/>
+      <circle class="cls-2" cx="1164.09" cy="549.23" r="1.72"/>
+      <circle class="cls-2" cx="1102.49" cy="677.7" r="4.43"/>
+      <circle class="cls-2" cx="975.37" cy="542.68" r="2.34"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="473.11" cy="491.67" r="4.47"/>
+      <circle class="cls-2" cx="471.02" cy="399.3" r="1.98"/>
+      <circle class="cls-2" cx="515.89" cy="640.11" r="1.57"/>
+      <circle class="cls-2" cx="419.79" cy="631.65" r="3.7"/>
+      <circle class="cls-2" cx="347.87" cy="576.01" r="3.22"/>
+      <circle class="cls-2" cx="278.25" cy="425.64" r="3.27"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="220.54" cy="529.1" r="3.82"/>
+      <circle class="cls-2" cx="162.65" cy="415.89" r="3.63"/>
+      <circle class="cls-2" cx="114.7" cy="541.55" r="2.22"/>
+      <circle class="cls-2" cx="103.61" cy="561.93" r="2.38"/>
+      <circle class="cls-2" cx="63.42" cy="638.49" r="2.72"/>
+      <circle class="cls-2" cx="71.28" cy="534.71" r="1.77"/>
+    </g>
+    <g>
+      <circle class="cls-2" cx="1351.54" cy="676.18" r="2.96"/>
+      <circle class="cls-2" cx="1383.79" cy="607.41" r="2.77"/>
+      <circle class="cls-2" cx="1378.19" cy="581.31" r="1.86"/>
+      <circle class="cls-2" cx="1383.36" cy="449.86" r="1.61"/>
+      <circle class="cls-2" cx="1502.3" cy="470.32" r="3.3"/>
+    </g>
+    <rect class="cls-3" x="1069.13" y="780.11" width="89.56" height="90.01"/>
+    <rect class="cls-3" x="-5.83" y="24.26" width="1925.83" height="1210.74"/>
+  </g>
+  <g id="arrow">
+    <polygon class="cls-4" points="778.56 606.89 780.72 597.27 853.12 620.21 850.96 629.83 778.56 606.89"/>
+    <polygon class="cls-5" points="833.23 619.15 883.29 632.69 836.37 637.64 833.23 619.15"/>
+    <polyline class="cls-6" points="882.59 632.6 843.89 603.32 833.23 619.15"/>
+  </g>
+  <g>
+    <path class="cls-7" d="M1154,381.35c-71.15,75.31-43.57,73.33-135.87,98.17,5.1,9.9,11.78,16.3,11.7,27.77C1117.64,467.26,1099.71,468.91,1154,381.35Z"/>
+    <polygon class="cls-7" points="1004.38 660.49 984.45 578.04 1013.79 575.93 1004.38 660.49"/>
+    <polygon class="cls-7" points="928.43 657.7 916.52 573.5 945.9 574.61 928.43 657.7"/>
+    <path class="cls-7" d="M780.4,388.17c71.16,75.31,43.57,73.33,135.88,98.17-5.1,9.9-11.78,16.3-11.7,27.77C816.81,474.08,834.74,475.73,780.4,388.17Z"/>
+    <path class="cls-7" d="M996,409,990,407a2.45,2.45,0,0,1-1.47-3l9-30.28a2.26,2.26,0,0,1,2.85-1.57l6,2.05a2.47,2.47,0,0,1,1.47,3l-9,30.27A2.25,2.25,0,0,1,996,409Z"/>
+    <polygon class="cls-8" points="988.39 483.06 964.7 476.43 985.89 390.06 1009.58 396.69 988.39 483.06"/>
+    <line class="cls-9" x1="1006.73" y1="384.5" x2="993.63" y2="387.06"/>
+    <ellipse class="cls-8" cx="969.32" cy="509.47" rx="80.22" ry="85.64"/>
+    <ellipse class="cls-10" cx="937.75" cy="491.79" rx="6.79" ry="21.07"/>
+    <ellipse class="cls-10" cx="994.68" cy="491.79" rx="6.79" ry="21.07"/>
+    <g>
+      <path class="cls-11" d="M924.47,522.3c12.58,23.93,29.32,2.8,45.67,3.12s32.29,22.12,45.58-1.29c1.43-2.52,3.48-2.82,4.61-.49h0c1.13,2.33.81,6.69-.77,9.47-28.88,50.9-71.84,50-99.19-2-1.5-2.84-1.68-7.2-.49-9.49h0C921.08,519.34,923.12,519.73,924.47,522.3Z"/>
+      <polygon class="cls-12" points="952.77 562.96 950.88 530.16 939.02 532.9 952.77 562.96"/>
+      <polygon class="cls-12" points="976.89 563.93 983.26 528.77 994.76 532.83 976.89 563.93"/>
+      <polygon class="cls-12" points="959.06 542.23 950.92 530.59 958.24 527.63 959.06 542.23"/>
+      <polygon class="cls-13" points="974.86 539.88 976.39 525.58 983.73 528.5 974.86 539.88"/>
+      <polygon class="cls-14" points="967.07 539.2 958.93 527.56 966.25 524.59 967.07 539.2"/>
+      <polygon class="cls-12" points="970.63 538.86 966.93 525 974.79 524.88 970.63 538.86"/>
+    </g>
+  </g>
+  <text class="cls-15" transform="translate(561.36 365.93)">GAME OVER</text>
+  <g id="arrow-2" data-name="arrow">
+    <polygon class="cls-4" points="1154.66 618.98 1152.5 609.36 1080.1 632.3 1082.26 641.91 1154.66 618.98"/>
+    <polygon class="cls-16" points="1099.99 631.24 1049.93 644.78 1096.85 649.73 1099.99 631.24"/>
+    <polyline class="cls-17" points="1050.63 644.68 1089.32 615.4 1099.99 631.24"/>
+  </g>
+</svg>

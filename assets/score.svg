@@ -1,0 +1,53 @@
+<svg id="game" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="93" viewBox="0 0 148 93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        font-size: 12px;
+      }
+
+      .cls-3, .cls-7 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        font-size: 57.04px;
+        fill: #d497c3;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.02em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="635.87" y="-783" width="1912.62" height="1073.43"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g class="cls-2">
+      <text class="cls-3" transform="translate(19.86 8)"><tspan class="cls-4">L</tspan><tspan x="5.5" y="0">o</tspan><tspan class="cls-5" x="12.08" y="0">r</tspan><tspan class="cls-6" x="15.89" y="0">em ipsum</tspan></text>
+    </g>
+  </g>
+  <g id="Layer_7" data-name="Layer 7">
+    <text class="cls-7" transform="translate(12 67.74) scale(0.72 1)">S<tspan class="cls-8" x="28.12" y="0">C</tspan><tspan x="60" y="0">ORE:</tspan></text>
+  </g>
+</svg>

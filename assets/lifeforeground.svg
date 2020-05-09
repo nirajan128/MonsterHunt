@@ -1,0 +1,12 @@
+<svg id="life" xmlns="http://www.w3.org/2000/svg" width="123" height="158" viewBox="0 0 123 158">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f20834;
+        stroke: #07070d;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <path id="Lifeforeground" class="cls-1" d="M98.35,53.14C81.82,36.69,67.5,58,67.5,58v1.53c-7.65-7.45-19.13-14.71-30.62-7.32-22,14.13,30.61,57.91,30.61,57.91l.79,2-.54-1.54S114.89,69.58,98.35,53.14Z"/>
+</svg>

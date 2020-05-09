@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="476" height="223" viewBox="0 0 476 223">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #02080d;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="148.29" y="59.29" width="123.71" height="91.71"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <g id="Speaker">
+      <rect id="Rectangle_976" data-name="Rectangle 976" class="cls-1" x="148.29" y="59.29" width="123.71" height="91.71"/>
+      <path id="Path_260" data-name="Path 260" class="cls-3" d="M236.36,62v87.13a2.4,2.4,0,0,1-2.47,1.83,4.53,4.53,0,0,1-2.48-.92L198,126.24h-23.5c-1.24,0-1.24,0-2.48-.92s0-.92,0-1.83V86.8c0-.92,0-.92,1.24-1.83a5,5,0,0,1,2.47-.92h23.51l33.4-24.76h2.48C236.36,60.2,236.36,60.2,236.36,62Z"/>
+    </g>
+  </g>
+</svg>
